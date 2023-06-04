@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "name": "Muhammad Abubakar",
+        "age": "28",
+        "dob": "1st Jan, 1994",
+        "email":"abubakar@o3interfaces.com",
+        "employeeNo": "010121",
+        "profession": "Software Engineer",
+        "Designation": "Senior iOS Developer",
+        "favoriteSinger" : "Future",
+        "favoriteMovie": "Resident Evil: Infinite Darkness  "
+    },
+    {
+        "id": 2,
+        "name": "Haris Nazir",
+        "age": "26",
+        "dob": "1st Jan 1997",
+        "email": "haris.nazir@o3interfaces.com",
+        "employeeNo": "010100101",
+        "profession": "Software Engineer",
+        "Designation": "Mid Level iOS Developer",
+        "favoriteSinger" : "Abida Parveen",
+        "favoriteMovie": "Avengers"
+    },
+    {
+        "id": 3,
+        "name": "Zeeshan Amjad",
+        "age": "26",
+        "dob": "1st Jan, 1998",
+        "email":"zeeshan@o3interfaces.com",
+        "employeeNo": "3130500",
+        "profession": "Software Engineer",
+        "Designation": "Mid Level iOS Developer",
+        "favoriteSinger" : "Nusrat Fateh Ali Khan",
+        "favoriteMovie": "Tere bin"
+    },
+    {
+        "id": 4,
+        "name": "Muhammad Ali",
+        "age": "23",
+        "dob": "1st Jan, 2000",
+        "email":"muhammad.ali@o3interfaces.com",
+        "employeeNo": "223344",
+        "profession": "Software Engineer",
+        "Designation": "Junior iOS developer",
+        "favoriteSinger" : "Drake",
+        "favoriteMovie": "Redemption"
+    },
+
+    {
+        "id": 5,
+        "name": "Amna Sheikh",
+        "age": "24",
+        "dob": "1st Jan, 1998",
+        "email":"amna.sheikh@o3interfaces.com",
+        "employeeNo": "001100",
+        "profession": "Software Engineer",
+        "Designation": "Junior iOS developer",
+        "favoriteSinger" : "Weeknd",
+        "favoriteMovie": "Last Knight"
+    },  
+    {
+        "id": 6,
+        "name": "Muhammad Usman",
+        "age": "23",
+        "dob": "1st Nov, 2000",
+        "email": "usman.mazhar@o3interfaces.com",
+        "employeeNo": "12233445",
+        "profession": "Software Engineer",
+        "Designation": "Junior iOS developer",
+        "favoriteSinger" : "Post Malone",
+        "favoriteMovie": "The Shawshank Redemption"
+    }
+]
