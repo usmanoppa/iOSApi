@@ -1,0 +1,24 @@
+{
+    "employees" : [
+        {
+            "id" : "1",
+            "name" : "Muhammad Usman",
+            "address" : "UBL Tower"
+        }, 
+        {
+            "id" : "2",
+            "name" : "Haris Nazir",
+            "address" : "UBL Tower"
+        },
+        {
+            "id" : "3",
+            "name" : "Zeeshan Amjad",
+            "address" : "UBL Tower"
+        }, 
+        {
+            "id" : "4",
+            "name" : "Muhammad Ali",
+            "address" : "UBL Tower"
+        }
+    ]
+}

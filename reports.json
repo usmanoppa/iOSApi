@@ -1,0 +1,14 @@
+{
+    "reports" : [
+        {
+            "id" : "1",
+            "labourHours" : "40",
+            "totalCost" : "3000"
+        }, 
+        {
+            "id" : "2",
+            "labourHours" : "80",
+            "totalCost" : "6000"
+        },
+    ]
+}
